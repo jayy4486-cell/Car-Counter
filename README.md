@@ -1,4 +1,4 @@
-# Project 1 - Car Counter
+# Car Counter
 
 This project detects vehicles in a road video, tracks them across frames, and counts each vehicle once when it crosses a counting line.
 
